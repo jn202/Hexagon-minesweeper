@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Завитаев Ян\OneDrive\Рабочий стол\SaperPractik\SaperPractik\Source.cpp(297,1): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowW"
+C:\Users\Завитаев Ян\OneDrive\Рабочий стол\SaperPractik\SaperPractik\Source.cpp(328,22): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Завитаев Ян\OneDrive\Рабочий стол\SaperPractik\SaperPractik\Source.cpp(478,47): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\Завитаев Ян\OneDrive\Рабочий стол\SaperPractik\SaperPractik\Source.cpp(575,29): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+C:\Users\Завитаев Ян\OneDrive\Рабочий стол\SaperPractik\SaperPractik\Source.cpp(596,29): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+C:\Users\Завитаев Ян\OneDrive\Рабочий стол\SaperPractik\SaperPractik\Source.cpp(398): warning C4715: InitStaticsBox: значение возвращается не при всех путях выполнения
+C:\Users\Завитаев Ян\OneDrive\Рабочий стол\SaperPractik\SaperPractik\Source.cpp(514): warning C4715: SoftMainProcedure: значение возвращается не при всех путях выполнения
+  SaperPractik.vcxproj -> C:\Users\Завитаев Ян\OneDrive\Рабочий стол\SaperPractik\Debug\SaperPractik.exe
